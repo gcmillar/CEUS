@@ -2,6 +2,9 @@
 ### 
 This repository details the code and data for computational reproducibility of the (CEUS) Special Issue Manuscript: Space-time Analytics of Human Physiology for Urban Planning:
 
+<center>
+  <img src="https://raw.githubusercontent.com/gcmillar/CEUS/master/img/viewshed_progress_onedir_ortho.png" alt="runbutton" height="180px">
+</center>
 
 > **Garrett C. Millar**, Ondrej Mitas, Wilco Boode Lisette Hoeke, Joost de Kruijff, Anna Petrasova, Helena Mitasova (2020): 
 _Space-time Analytics of Human Physiology for Urban Planning_. In: Computers, Environment, and Urban Sytstems, In: *Advances in portable sensing methodologies for urban environments: Understanding cities from a mobility perspective*. 
