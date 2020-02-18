@@ -97,7 +97,7 @@ if __name__ == '__main__':
     if not pid:
         pid = None
     coords = options['coordinates'].split(',')
-    direction = float(int(options['direction']))
+    direction = float(str(options['direction']))
     # coords= 'cycle_track_viewpoints'
     main(elevation='chips_area_dem',
          coords=(float(coords[0]), float(coords[1])),
